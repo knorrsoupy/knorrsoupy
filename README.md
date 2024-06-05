@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning different WebGL frameworks and game engines like **Three.js, Unreal Engine, Unity Engine.**
 
-- 👨‍💻 All of my projects are available at : [https://interactive-design-pink.vercel.app/](https://knorrsoupy.netlify.app)
+- 👨‍💻 All of my projects are available at : [https://knorrsoupy.netlify.app](https://knorrsoupy.netlify.app)
 
 - ❤️ My artworks can be found here: [https://www.instagram.com/knorrsoupy/](https://www.instagram.com/knorrsoupy/)
 
