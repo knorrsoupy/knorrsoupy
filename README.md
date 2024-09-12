@@ -1,7 +1,7 @@
 
 
-<h1 align="center"> <b>Hi there </b>👋, this is Souparna Roy, your friendly neighborhood designer/engineer.</h1>
-<h3 align="center">Hi! I'm a former Software Engineer who has transitioned into the world of Design. Currently pursuing my master's degree in XR Design, I'm dedicated to crafting user-friendly products that effectively tackle challenges for individuals from diverse backgrounds.</h3>
+<h1 align="left"> <b>Hi there </b>👋, this is Souparna Roy, your friendly neighborhood designer/engineer.</h1>
+<h3 align="left">Hi! I'm a former Software Engineer who has transitioned into the world of Design. Currently pursuing my master's degree in XR Design, I'm dedicated to crafting user-friendly products that effectively tackle challenges for individuals from diverse backgrounds.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knorrsoupy&label=Profile%20views&color=0e75b6&style=flat" alt="knorrsoupy" /> </p>
 
