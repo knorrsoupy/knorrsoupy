@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning different WebGL frameworks and game engines like **Three.js, Unreal Engine, Unity Engine.**
 
-- 👨‍💻 All of my projects are available at : [https://knorrsoupy.netlify.app](https://knorrsoupy.netlify.app)
+- 👨‍💻 All of my projects are available at : [https://knorrsoupy.netlify.app](https://knorrsoupy.vercel.app)
 
 - ❤️ My artworks can be found here: [https://www.instagram.com/knorrsoupy/](https://www.instagram.com/knorrsoupy/)
 
 - 📫 How to reach me: **souparnarroy@gmail.com**
 
-- 📄 Know about my experiences : [https://interactive-design-pink.vercel.app/Details/resume.pdf](https://interactive-design-pink.vercel.app/Details/resume.pdf)
+- 📄 Know about my experiences : [Resume](https://knorrsoupy.vercel.app/work/Souparna_Roy_Resume.pdf)
 
 - ⚡ Fun fact **I have a PHd in procastination.**
 
