@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently pursuing my MDes (Master of Design) **from IIT Jodhpur in XR(Extended Reality) Design.**
 
-- 🌱 I’m currently learning different WebGL frameworks and game engines like **Three.js, Unreal Engine, Unity Engine.**
+- 🌱 I’m currently learning different WebGL frameworks and game engines like  Unreal Engine, Unity Engine, Godot**
 
 - 👨‍💻 All of my projects are available at : [Personal Website](https://knorrsoupy.vercel.app)
 
