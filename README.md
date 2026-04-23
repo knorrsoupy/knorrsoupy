@@ -3,21 +3,23 @@
 </h1>
 
 <h3 align="left">
-Designer × Engineer building XR-driven, human-centered products
+UX Designer × XR Specialist building enterprise-grade, human-centered systems
 </h3>
 
 <p align="left">
-Former Software Engineer → XR Designer. Currently pursuing MDes in XR Design at IIT Jodhpur.
-I focus on crafting intuitive, scalable experiences that solve real-world problems across diverse user groups.
+Former Software Engineer turned UX Designer, currently working at KPMG and pursuing my MDes in XR Design at IIT Jodhpur.
+I design end-to-end experiences across enterprise platforms, XR environments, and data-driven systems—focusing on usability, scalability, and measurable impact.
 </p>
 
 ---
 
 ### 🚀 About Me
+- 💼 UX Designer at KPMG  
+- 🏢 Former UX Designer Intern at Siemens  
 - 🎓 MDes in XR Design — IIT Jodhpur  
 - 💻 Background in Software Engineering  
-- 🧠 Currently exploring WebGL, Unreal Engine, Unity, and Godot  
-- 🎯 Focus: Interaction Design, XR Systems, Spatial UX  
+- 🧠 Exploring XR systems, WebGL, Unreal Engine, Unity, Godot  
+- 🎯 Focus: Enterprise UX, XR Design Systems, Spatial Interaction  
 
 ---
 
