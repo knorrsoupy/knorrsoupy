@@ -65,10 +65,3 @@ I design end-to-end experiences across enterprise platforms, XR environments, an
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=knorrsoupy&show_icons=true&layout=compact" />
-</p>
